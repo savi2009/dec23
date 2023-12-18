@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-This is imp code for t1 file
-=======
-add some lines
-adfadfs
-
-this is the addin by naveen 
->>>>>>> f6bf157de9794f4374f2202b2a4e5942ac3631ca
+This is changes in feature1 branch
